@@ -1,0 +1,9 @@
+public class Apex
+{
+	public static void display()
+	{
+		system.debug("Welcome to the Apex Programming!!!");
+		system.debug("My first Code in Apex");
+		system.deubg("I am Learning Salesforce");
+	}
+}
